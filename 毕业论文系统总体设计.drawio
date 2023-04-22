@@ -1,9 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2023-04-22T12:22:03.782Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="21.1.8" etag="B9Y4WMgTcZUSFgDEoLOC" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-22T12:57:56.871Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="rgQHHnk-uqZ91IT62MI_" version="21.1.8" type="github">
   <diagram name="第 1 页" id="XeerqUyy_gar6S1Ji7a_">
-    <mxGraphModel>
+    <mxGraphModel dx="2138" dy="687" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Qf_a833F3A-x0nn4UzPy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qf_a833F3A-x0nn4UzPy-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="352" y="145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qf_a833F3A-x0nn4UzPy-1" value="浏览器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="128" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf_a833F3A-x0nn4UzPy-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.517;entryY=0.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Qf_a833F3A-x0nn4UzPy-2" target="Qf_a833F3A-x0nn4UzPy-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf_a833F3A-x0nn4UzPy-2" value="小程序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf_a833F3A-x0nn4UzPy-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="260" width="350" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf_a833F3A-x0nn4UzPy-6" value="服务器&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="203" y="257" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf_a833F3A-x0nn4UzPy-10" value="restful api接口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="268" y="105" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf_a833F3A-x0nn4UzPy-11" value="表示层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="263" y="324" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf_a833F3A-x0nn4UzPy-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.16;exitY=0.55;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Qf_a833F3A-x0nn4UzPy-17" target="Qf_a833F3A-x0nn4UzPy-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf_a833F3A-x0nn4UzPy-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Qf_a833F3A-x0nn4UzPy-13" target="Qf_a833F3A-x0nn4UzPy-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf_a833F3A-x0nn4UzPy-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qf_a833F3A-x0nn4UzPy-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="117.29411764705901" y="406" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qf_a833F3A-x0nn4UzPy-13" value="业务层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="386" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf_a833F3A-x0nn4UzPy-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.717;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Qf_a833F3A-x0nn4UzPy-14" target="Qf_a833F3A-x0nn4UzPy-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf_a833F3A-x0nn4UzPy-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.543;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Qf_a833F3A-x0nn4UzPy-14" target="Qf_a833F3A-x0nn4UzPy-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="444.66666666666663" y="579.6666666666666" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="353" y="535" />
+              <mxPoint x="470" y="535" />
+              <mxPoint x="470" y="580" />
+              <mxPoint x="469" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qf_a833F3A-x0nn4UzPy-14" value="持久层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="447" width="186" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf_a833F3A-x0nn4UzPy-15" value="mysql数据库" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="580" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf_a833F3A-x0nn4UzPy-16" value="redis缓存数据库" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="404" y="580" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf_a833F3A-x0nn4UzPy-17" value="腾讯云人脸识别服务" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="636" y="257" width="165" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf_a833F3A-x0nn4UzPy-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qf_a833F3A-x0nn4UzPy-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="262" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qf_a833F3A-x0nn4UzPy-18" value="cdn服务器" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="141" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Qf_a833F3A-x0nn4UzPy-24" value="腾讯云短信服务" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-39" y="357" width="165" height="93" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
